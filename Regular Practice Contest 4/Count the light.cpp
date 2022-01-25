@@ -1,3 +1,5 @@
+//Problem Link - https://codeforces.com/problemset/problem/492/B
+//Vjudge contest problem C
 #include<bits/stdc++.h>
 using namespace std;
 int main()
